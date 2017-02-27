@@ -1,0 +1,17 @@
+{
+    "name": "php/websocket",
+    "description": "Websocket test site",
+    "require": 
+    {
+        "cboden/ratchet": "0.3.*"
+    },
+    "license": "GPL 3.0",
+    "authors": 
+    [
+        {
+            "name": "Sebastien LAtouche",
+            "email": "slatouche578@gmail.com"
+        }
+    ]
+}
+

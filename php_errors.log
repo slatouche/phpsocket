@@ -1,0 +1,73 @@
+[28-Aug-2016 17:22:21 UTC] PHP Warning:  require(/home/ubuntu/workspace/php../DB/DB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/Login.php on line 3
+[28-Aug-2016 17:22:21 UTC] PHP Stack trace:
+[28-Aug-2016 17:22:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 17:22:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/php../DB/DB.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/Login.php on line 3
+[28-Aug-2016 17:22:21 UTC] PHP Stack trace:
+[28-Aug-2016 17:22:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 17:30:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/php/Login.php on line 11
+[28-Aug-2016 17:30:43 UTC] PHP Stack trace:
+[28-Aug-2016 17:30:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 17:30:43 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/php/Login.php:11
+[28-Aug-2016 17:31:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/php/Login.php on line 11
+[28-Aug-2016 17:31:44 UTC] PHP Stack trace:
+[28-Aug-2016 17:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 17:31:44 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/php/Login.php:11
+[28-Aug-2016 19:45:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/php/Login.php on line 35
+[28-Aug-2016 19:45:05 UTC] PHP Stack trace:
+[28-Aug-2016 19:45:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 19:45:05 UTC] PHP   2. Query() /home/ubuntu/workspace/php/Login.php:22
+[28-Aug-2016 19:45:05 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/php/Login.php:35
+[28-Aug-2016 19:45:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/php/Login.php on line 37
+[28-Aug-2016 19:45:05 UTC] PHP Stack trace:
+[28-Aug-2016 19:45:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 19:45:05 UTC] PHP   2. Query() /home/ubuntu/workspace/php/Login.php:22
+[28-Aug-2016 19:45:05 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/php/Login.php:37
+[28-Aug-2016 19:46:30 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/php/Login.php on line 35
+[28-Aug-2016 19:46:30 UTC] PHP Stack trace:
+[28-Aug-2016 19:46:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 19:46:30 UTC] PHP   2. Query() /home/ubuntu/workspace/php/Login.php:22
+[28-Aug-2016 19:47:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/php/Login.php on line 36
+[28-Aug-2016 19:47:20 UTC] PHP Stack trace:
+[28-Aug-2016 19:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 19:47:20 UTC] PHP   2. Query() /home/ubuntu/workspace/php/Login.php:22
+[28-Aug-2016 19:47:20 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/php/Login.php:36
+[28-Aug-2016 19:47:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/php/Login.php on line 38
+[28-Aug-2016 19:47:20 UTC] PHP Stack trace:
+[28-Aug-2016 19:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 19:47:20 UTC] PHP   2. Query() /home/ubuntu/workspace/php/Login.php:22
+[28-Aug-2016 19:47:20 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/php/Login.php:38
+[28-Aug-2016 19:48:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/php/Login.php on line 37
+[28-Aug-2016 19:48:41 UTC] PHP Stack trace:
+[28-Aug-2016 19:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 19:48:41 UTC] PHP   2. Query() /home/ubuntu/workspace/php/Login.php:23
+[28-Aug-2016 19:48:41 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/php/Login.php:37
+[28-Aug-2016 19:48:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/php/Login.php on line 39
+[28-Aug-2016 19:48:41 UTC] PHP Stack trace:
+[28-Aug-2016 19:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 19:48:41 UTC] PHP   2. Query() /home/ubuntu/workspace/php/Login.php:23
+[28-Aug-2016 19:48:41 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/php/Login.php:39
+[28-Aug-2016 19:49:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/php/Login.php on line 37
+[28-Aug-2016 19:49:48 UTC] PHP Stack trace:
+[28-Aug-2016 19:49:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 19:49:48 UTC] PHP   2. Query() /home/ubuntu/workspace/php/Login.php:23
+[28-Aug-2016 19:49:48 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/php/Login.php:37
+[28-Aug-2016 20:10:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/php/Login.php on line 41
+[28-Aug-2016 20:10:41 UTC] PHP Stack trace:
+[28-Aug-2016 20:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[28-Aug-2016 20:10:41 UTC] PHP   2. Query() /home/ubuntu/workspace/php/Login.php:29
+[28-Aug-2016 20:10:41 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/php/Login.php:41
+[28-Aug-2016 20:16:31 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/php/Login.php on line 23
+[28-Aug-2016 20:16:31 UTC] PHP Stack trace:
+[28-Aug-2016 20:16:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Login.php:0
+[30-Aug-2016 15:40:28 UTC] PHP Warning:  require(/home/ubuntu/workspace/DBDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/DB/DBFuncs.php on line 3
+[30-Aug-2016 15:40:28 UTC] PHP Stack trace:
+[30-Aug-2016 15:40:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/DB/DBFuncs.php:0
+[30-Aug-2016 15:40:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/DBDB.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/DB/DBFuncs.php on line 3
+[30-Aug-2016 15:40:28 UTC] PHP Stack trace:
+[30-Aug-2016 15:40:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/DB/DBFuncs.php:0
+[30-Aug-2016 15:40:51 UTC] PHP Warning:  require(/home/ubuntu/workspace/DBDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/DB/DBFuncs.php on line 3
+[30-Aug-2016 15:40:51 UTC] PHP Stack trace:
+[30-Aug-2016 15:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/DB/DBFuncs.php:0
+[30-Aug-2016 15:40:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/DBDB.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/DB/DBFuncs.php on line 3
+[30-Aug-2016 15:40:51 UTC] PHP Stack trace:
+[30-Aug-2016 15:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/DB/DBFuncs.php:0
